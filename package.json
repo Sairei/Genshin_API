@@ -1,0 +1,27 @@
+{
+  "name": "sairei_genshin_api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sairei/Genshin_API.git"
+  },
+  "keywords": [
+    "Genshin Impact",
+    "Genshin",
+    "API"
+  ],
+  "author": "Sairei <christophercauet@hotmail.fr>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sairei/Genshin_API/issues"
+  },
+  "homepage": "https://github.com/Sairei/Genshin_API#readme",
+  "dependencies": {
+    "fuzzysort": "^2.0.1"
+  }
+}
